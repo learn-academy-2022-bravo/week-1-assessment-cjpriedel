@@ -9,8 +9,9 @@
 const colors = ["tangerine", "magenta", "lilac", "daffodil"]
 // console.log(colors.push("indigo"))
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: it will add the value "indigo" to the array temporarily and return the arrays length.
+
+// b) Verify and explain: the command on line 10 returns (5), the index of the new value added to the array
 
 
 // --------------------1) What will this log?
