@@ -7,7 +7,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 INSTRUCTOR EXAMPLE: What is a conditional statement?
 
-  Your answer:
+  Your answer: A conditional statement is a process that evaluates the input/output through a series of possible outcomes providing an action based on whether or not the condition was met
 
   Researched answer:
 
@@ -15,7 +15,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 1. What is git? What is the difference between git and Github?
 
-  Your answer:
+  Your answer: Git is a version tracking and version control 
 
   Researched answer:
 
@@ -31,7 +31,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 3. What is an index? What is the difference between index and value?
 
-  Your answer:
+  Your answer: an index is the place a value exists within an array, a value is the actual data type 
 
   Researched answer:
 
@@ -39,7 +39,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 4. What is iteration?
 
-  Your answer:
+  Your answer: The number of cycles a loop runs 
 
   Researched answer:
 
