@@ -49,8 +49,8 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   Your answer: One partner is to "drive", type, operate the computer and share their screen to the other partner. That partner is the "navigator", thoroughly communicating/researching and verbalizing thought processes while guiding the "driver" to execute the actions on the computer. 
 
-  Researched answer:
-
+  Researched answer: One is meant to perform actions, the driver, while the other guides and directs them, the navigator, communicating openly about questions, thought processes and how to solve an issue. It allows for more ideas and solutions to form as a result of this communication process.
+ 
 
 
 ## Looking Ahead: Terms for Next Week
@@ -65,4 +65,4 @@ Research and define the following terms to the best of your ability.
 
 4. Method: Methods are actions that can be executed on Objects
 
-5. Classes:
+5. Classes: Classes in Javascript are a type of function that can be used as templates to create similar variables and perform methods

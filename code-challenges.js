@@ -43,6 +43,8 @@ const boilingPoint = 212
         }
     }
 
+    console.log(isItBoiling(211))
+    console.log(isItBoiling(212))
     console.log(isItBoiling(213))
 
 // --------------------2) Create the code that will combine the two arrays and return the length using the variables provided below. Expected output: 10
@@ -51,7 +53,7 @@ const boilingPoint = 212
 
 //pseudo code
         //combine the two arrays using .concat into a newly assigned variable now containing the combined array
-        // use the new variable containing the combined arrays to evaluate and log for the variables length. 
+        // use the new variable containing the combined arrays to evaluate and log for the variables number of values. 
 
 const myNumbers1 = [3, 7, 0, 36, -9]
 const myNumbers2 = [8, -7, 42, 9, 13]

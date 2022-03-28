@@ -50,6 +50,7 @@ const weekendDays = ["saturday", "sunday"]
 // a) Your answer: Error 
 // b) Verify and explain: .toUpperCase can only work on strings, an array index needs to be added into the variable invoking the function --> weekendDays[1].toUpperCase()
 
+
 // --------------------5) What will this log?
 
 const dataTypes = ["number", "string", "Boolean"]
