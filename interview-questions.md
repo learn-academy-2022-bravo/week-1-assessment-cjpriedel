@@ -35,7 +35,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   Researched answer: An index refers to what position a specific value holds in the array.
 
-
+ 
 
 4. What is iteration?
 

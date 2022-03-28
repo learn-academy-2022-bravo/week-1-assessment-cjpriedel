@@ -40,7 +40,7 @@ const index = 1
 
 // a) Your answer: "Ruby"
 // b) Verify and explain: zero index made Ruby the number 1 place in the array
-
+ 
 
 // --------------------4) What will this log?
 
@@ -49,6 +49,8 @@ const weekendDays = ["saturday", "sunday"]
 
 // a) Your answer: Error 
 // b) Verify and explain: .toUpperCase can only work on strings, an array index needs to be added into the variable invoking the function --> weekendDays[1].toUpperCase()
+
+
 
 
 // --------------------5) What will this log?
