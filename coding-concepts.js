@@ -26,7 +26,7 @@ const cohort = "LEARN 2022"
 // --------------------2) What will this log?
 
 const greeting = "Hello World!"
- console.log(greeting[4])
+//console.log(greeting[4])
 
 // a) Your answer: undefined
 // b) Verify and explain: The brackets led me to think it was an array, the output was the letter 'o'. The argument of [4] returns the value at that index place. 
@@ -39,7 +39,7 @@ const index = 1
 // console.log(languages[index])
 
 // a) Your answer: "Ruby"
-// b) Verify and explain: zero index made Ruby the number 1 place in the array of languages
+// b) Verify and explain: zero index made Ruby the number 1 place in the array
 
 
 // --------------------4) What will this log?
@@ -50,11 +50,10 @@ const weekendDays = ["saturday", "sunday"]
 // a) Your answer: Error 
 // b) Verify and explain: .toUpperCase can only work on strings, an array index needs to be added into the variable invoking the function --> weekendDays[1].toUpperCase()
 
-
 // --------------------5) What will this log?
 
 const dataTypes = ["number", "string", "Boolean"]
- console.log(typeof dataTypes.length)
+//console.log(typeof dataTypes.length)
 
 // a) Your answer: it will return "number"?
 // b) Verify and explain: the console log is asking for the typeof data produced by the .length method on the variable. The .length returns a numerical value meaning the typeof data would be number
