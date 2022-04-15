@@ -7,62 +7,62 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 INSTRUCTOR EXAMPLE: What is a conditional statement?
 
-  Your answer:
+  Your answer: A conditional statement is a process that evaluates the input/output through a series of possible outcomes providing an action based on whether or not the condition was met
 
-  Researched answer:
+  Researched answer: Conditional statements are used to determine the behavior of a block of code  based on IF a condition is met, or ELSE something will happen or something ELSE will happen IF another specific scenario occurs.
 
 
 
 1. What is git? What is the difference between git and Github?
 
-  Your answer:
+  Your answer: Git is a version tracking and version control for local repositories, Github is the online cloud that utilizes Git to perform remote to local version tracking and control for repositories. 
 
-  Researched answer:
+  Researched answer: Git is an open source version control system created by the inventor of Linux. Git provides the user with a complete local repository tha
 
 
 
 2. Which JavaScript operators will return a Boolean value?
 
-  Your answer:
+  Your answer: Logical operators such as "&&" " || " and " ! " will return a value of true or false 
 
-  Researched answer:
+  Researched answer: Logical operators return a value of truthy or falsy. Examples of these operators are AND (&&), OR (||), and NOT (!) 
 
 
 
 3. What is an index? What is the difference between index and value?
 
-  Your answer:
+  Your answer: an index is the place a value exists within an array, a value is the actual data  
 
-  Researched answer:
+  Researched answer: An index refers to what position a specific value holds in the array.
 
-
+ 
 
 4. What is iteration?
 
-  Your answer:
+  Your answer: The number of cycles a loop runs 
 
-  Researched answer:
+  Researched answer: A procedure where a cycle of operations are repeated 
 
 
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-  Your answer:
+  Your answer: One partner is to "drive", type, operate the computer and share their screen to the other partner. That partner is the "navigator", thoroughly communicating/researching and verbalizing thought processes while guiding the "driver" to execute the actions on the computer. 
 
-  Researched answer:
-
+  Researched answer: One is meant to perform actions, the driver, while the other guides and directs them, the navigator, communicating openly about questions, thought processes and how to solve an issue. It allows for more ideas and solutions to form as a result of this communication process.
+ 
 
 
 ## Looking Ahead: Terms for Next Week
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: Higher Order Functions refer to functions that execute an action on another function, known as an operation. Operations can take multiple functions as an argument or return a function as a result. 
 
-2. Jest:
+2. Jest: Jest is a framework for Javascript intended to check the code and allow an interactive API for quick results when testing. 
 
-3. Objects:
+3. Objects: All values other than primitive are objects in Javascript. A Javascript object is a collection of named values
 
-4. Method:
+4. Method: Methods are actions that can be executed on Objects
 
-5. Classes:
+5. Classes: Classes in Javascript are a type of function that can be used as templates to create similar variables and perform methods
